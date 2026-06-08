@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>단꿈e 수수료 지급 명세서</title>
+  <style>
+    html, body { margin:0; padding:0; height:100%; background:#eceae4; }
+    iframe { border:0; width:100%; height:100vh; display:block; }
+  </style>
+</head>
+<body>
+  <!-- ▼ 아래 src를 본인의 Apps Script 웹앱 주소(/exec 로 끝나는 주소)로 교체하세요 -->
+  <iframe src="https://script.google.com/macros/s/AKfycbyNGV71DDkBzEnKy-t0d3OJAnAKsOiPkA9cCQbJGPHNcvwb2JwyMoia3QHps901qqz5/exec" allow="clipboard-write"></iframe>
+</body>
+</html>
